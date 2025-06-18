@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=burr1to&icon=0&color=0" />
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=burr1to.burr1to&left_color=green&right_color=blue)
 </p>
 
 <!-- Inspired by clean and minimal GitHub profiles -->
