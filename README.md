@@ -72,8 +72,6 @@
 
 ---
 
-<p align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=burr1to.burr1to&left_color=green&right_color=blue)
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=burr1to.burr1to&left_color=green&right_color=blue)
 
 <!-- Inspired by clean and minimal GitHub profiles -->
