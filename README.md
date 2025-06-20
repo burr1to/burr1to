@@ -35,10 +35,10 @@
 
 ### 🌱 What I'm Up To
 
-- 🔭 Currently building cool full-stack projects with **Next.js** and **FastAPI**
+- 🔭 Currently building a cool full-stack project using **Next.js** and **Django**
 - 🛠 Learning Docker, CI/CD, and GraphQL
 - 🤝 Looking to collaborate on open source and community-driven tech for Nepal 🇳🇵
-- 🧠 Goal for 2025: **Make something people can't stop using**
+- 🧠 Goal for 2025: **MAKE SOMETHING, ANYTHING**
 
 ---
 
