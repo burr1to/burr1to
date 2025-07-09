@@ -7,13 +7,13 @@
 <h2 align="center">👋 Hi, I'm Sanskar</h2>
 <p align="center">
   <b>A tech enthusiast who solves real-world problems with code.</b><br/>
-  💻 Currently exploring <b>Next.js</b>, <b>Django</b>, and <b>FastAPI</b><br/>
-  🧠 Also known as <code>San</code> or <code>burr1to</code>
+   Currently exploring <b>Next.js</b>, <b>Django</b>, and <b>FastAPI</b><br/>
+   Also known as <code>San</code> or <code>burr1to</code>
 </p>
 
 ---
 
-### 🧰 Tech Stack I Love Working With:
+### Tech Stack I Love Working With:
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌱 What I'm Up To
+### What I'm Up To
 
 - 🔭 Currently building a cool full-stack project using **Next.js** and **Django**
 - 🛠 Learning Docker, CI/CD, and GraphQL
@@ -42,7 +42,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burr1to&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -54,15 +54,15 @@
 
 ---
 
-### 🔥 Fun Facts
+### Fun Facts
 
-- ⚡ I go by “burr1to” because I like my code wrapped just right 🌯
-- 🎮 I sometimes build with game logic, RL agents & computer vision for fun
-- 🧠 I love debugging more than coding. It’s like solving puzzles.
+- I go by “burr1to” because I like my code wrapped just right 🌯
+- I sometimes build with game logic, RL agents & computer vision for fun
+- I love debugging more than coding. It’s like solving puzzles.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskar-singh-dangol-bb2095222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
