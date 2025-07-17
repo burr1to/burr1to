@@ -36,7 +36,7 @@
 ### What I'm Up To
 
 - 🔭 Currently building a cool full-stack project using **Next.js** and **Django**
-- 🛠 Learning Docker, CI/CD, and GraphQL
+- 🛠 Learning Docker, Django and Bash Script!
 - 🤝 Looking to collaborate on open source and community-driven tech for Nepal 🇳🇵
 - 🧠 Goal for 2025: **MAKE SOMETHING, ANYTHING**
 
