@@ -7,7 +7,7 @@
 <h2 align="center">👋 Hi, I'm Sanskar</h2>
 <p align="center">
   <b>A tech enthusiast who solves real-world problems with code.</b><br/>
-   Currently exploring <b>Next.js</b>, <b>Django</b>, and <b>FastAPI</b><br/>
+   Currently exploring <b>Next.js</b>, <b>Django</b>, and <b>Agentic AI</b><br/>
    Also known as <code>San</code> or <code>burr1to</code>
 </p>
 
@@ -37,8 +37,8 @@
 
 - 🔭 Currently building a cool full-stack project using **Next.js** and **Django**
 - 🛠 Learning Docker, Django and Bash Script!
-- 🤝 Looking to collaborate on open source and community-driven tech for Nepal 🇳🇵
-- 🧠 Goal for 2025: **MAKE SOMETHING, ANYTHING**
+- 🤝 Looking to learn more about RAG and Agentic AI 🇳🇵
+- 🧠 Goal for December 2025: **MAKE SOMETHING, ANYTHING**
 
 ---
 
